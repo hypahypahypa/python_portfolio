@@ -4,7 +4,7 @@
 https://docs.google.com/spreadsheets/d/1720ZnPsPVPGEFEJLEVOJUqVThwej6VyaOiQWHC5S84A/edit#gid=140074022
 
 Я сократил лист таблицы **user_log** до необходимых 5 столбцов:
-https://docs.google.com/spreadsheets/d/1zKqVE_7exNZK1Z-XLmg41ugWhxVCullXniRnGLNRHfs/edit#gid=0
+  https://docs.google.com/spreadsheets/d/1zKqVE_7exNZK1Z-XLmg41ugWhxVCullXniRnGLNRHfs/edit#gid=0
 
 Скачал эту таблицу в виде CSV файла **user_log.csv**
 
